@@ -9,4 +9,4 @@
 8. [Lab 08](https://github.com/karupothulasreechandana/Aiml-2024-2025/blob/main/AIML_Lab_08.ipynb)
 9. [Lab 09](https://github.com/karupothulasreechandana/Aiml-2024-2025/blob/main/AIML_Lab_09.ipynb)
 10. [Lab 10](https://github.com/karupothulasreechandana/Aiml-2024-2025/blob/main/AIML_Lab_10.ipynb)
-11. [PROJECT](https://github.com/NagarajuNarishetti/AIML_Project)
+11. [PROJECT](https://github.com/karupothulasreechandana/AIML_PROJECT)
